@@ -1,0 +1,154 @@
+body {
+  max-width: 800px;
+  margin: 0 auto;
+  background-color: lightskyblue;
+}
+
+h1 {
+  margin: 10px auto;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 60px;
+  display: block;
+  width: 80%;
+  text-align: center;
+}
+
+a {
+  font-size: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2 {
+  margin: 0px 0px 0px 0px;
+  font-size: 30px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding: 36px 0px 0px 16px;
+}
+
+main {
+  background-color: aliceblue;
+}
+
+.main-menu {
+  margin: 0px 0px 0px 0px;
+}
+
+ul li a {
+  list-style: none;
+  text-decoration: none;
+  padding: 14px 16px;
+  color: black;
+  padding-inline-start: 0px;
+}
+
+.menu {
+  margin: auto;
+  list-style: none;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+  display: block;
+  padding: 0px;
+}
+
+.main-menu {
+  padding: 0 0 0 0px;
+
+  background-color: black;
+}
+
+.main-menu li {
+  display: inline-block;
+}
+
+.main-menu li a {
+  color: white;
+  display: block;
+  padding: 10px;
+}
+
+.main-menu li a:hover {
+  background-color: lightslategray;
+}
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 16px;
+}
+
+.to-go {
+  margin: auto;
+  list-style: none;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  display: block;
+  padding: 0px;
+}
+
+.to-go li {
+  display: inline-block;
+}
+
+.to-go li a {
+  display: block;
+  padding: 16px;
+}
+
+.to-go li a:hover {
+  background-color: lightskyblue;
+}
+
+footer {
+  padding: 16px;
+  background-color: black
+}
+
+.footer {
+  color: white
+}
+
+b {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+}
+
+.login {
+  display: inline-block;
+  padding: 0px 16px;
+  margin: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+  padding: 0px;
+}
+
+.footer a {
+  font-size: 18px;
+}
+
+.footer a:hover {
+  color: lightskyblue;
+}
+
+.footer p {
+  margin: 0px 0px 16px 0px;
+  padding: 0px 0px 0px 0px;
+}
+
+.login1 {
+  display: inline-block;
+  padding: 0px 0px 0px 0px;
+  margin: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.login2 {
+  display: inline-block;
+  padding: 0px 0px 0px 0px;
+  margin: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.login-ul {
+  margin: 0px 0px 16px 0px;
+}
