@@ -1,0 +1,131 @@
+body {
+    background-image: url("img/barber.jpg");
+    margin: 50px;
+}
+
+.img {
+    width: 422px;
+    float: right;
+    padding: 5px;
+}
+
+.main-section {
+    margin-left: 140px;
+    font: size 28px;
+    padding: 0px 30px;
+
+}
+
+.text1 {
+    background: rgba(0, 0, 0, 0.4);
+    padding: 5px;
+}
+
+.text2 {
+    background: rgba(0, 0, 0, 0.5);
+    padding: 5px;
+}
+
+.text3 {
+    background: rgba(0, 0, 0, 0.7);
+    padding: 5px;
+}
+
+.text4 {
+    background: rgba(0, 0, 0, 0.8);
+    padding: 5px;
+}
+
+.text5 {
+    background: rgba(0, 0, 0, 0.9);
+    padding: 5px;
+}
+
+.text6 {
+    background: rgba(0, 0, 0, 1.0);
+    padding: 5px;
+}
+
+.sidenav {
+    width: 200px;
+    position: fixed;
+    z-index: 1;
+    top: 274px;
+    bottom: 68px;
+    left: 10px;
+    background: black;
+    overflow-x: hidden;
+    padding: 8px 0px 0px 0px;
+}
+
+.sidenav a {
+    padding: 6px 30px 6px 16px;
+    text-decoration: none;
+    font-size: 20px;
+    display: block;
+    color: bisque;
+}
+
+h1 {
+    color: bisque;
+    width: 40%;
+    margin: 0%;
+    padding: 30px 30px 30px 0px;
+    font-size: 70px;
+
+}
+
+.menu {
+    margin: 0xp;
+    padding: 0xp;
+    font-size: 20xp;
+}
+
+li {
+    text-decoration: none;
+    float: left;
+    border-right: 1px solid rgb(68, 68, 68, 0.5);
+}
+
+li a {
+    display: block;
+    color: beige;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    background-color: rgb(139, 60, 23);
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+
+a:hover {
+    background-color: rgb(139, 60, 23);
+}
+
+img {
+    width: 100%;
+}
+
+
+h2 {
+    font-size: 30px;
+    color: bisque;
+    margin: 25px 0px 0px 0px;
+}
+
+p {
+    color: bisque;
+    margin: 0px 16px 0px 0px;
+}
